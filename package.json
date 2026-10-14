@@ -1,0 +1,1 @@
+{"name":"jina-playground-async-fixture","private":true,"type":"module","scripts":{"test":"npm run test:ledger && npm run test:jobs","test:ledger":"node --test tests/ledger.test.mjs","test:jobs":"node --test tests/jobs.test.mjs"}}
